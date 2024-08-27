@@ -1,0 +1,6 @@
+@INote_HostAddress = http://localhost:5099
+
+GET {{INote_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
